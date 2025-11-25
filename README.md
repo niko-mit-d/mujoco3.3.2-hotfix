@@ -1,0 +1,1 @@
+This repository fixes an issue present when installing MuJoCo on Windows, see [here](https://github.com/google-deepmind/mujoco/issues/2927). As the changes were only officially implemented on the latest version (as of November 2025), this repository implements the bug fix into version 3.3.2 of MuJoCo.
