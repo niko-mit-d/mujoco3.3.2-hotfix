@@ -9,4 +9,4 @@ cmake -DCMAKE_INSTALL_PREFIX=install_dir ..
 cmake --build . --config RELEASE
 cmake --install .
 ```
-and add `install_dir/bin` to environment variables.
+and add `full/path/to/install_dir/` to environment variables under "User variables for admin", double click on Path and add the installation directory.
